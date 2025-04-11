@@ -1,0 +1,1 @@
+# Building-a-Scalable-and-Secure-Cloud-Data-Platform-for-MeddGGenius-Using-Azure
